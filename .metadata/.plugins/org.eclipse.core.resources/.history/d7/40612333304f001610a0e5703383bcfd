@@ -1,0 +1,64 @@
+<html>
+<body>
+<h2>WELCOME TO TITAN+</h2>
+</body>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html>
+    <head>
+	<title> Template 58739 Live demo - Watches Online Magento  Theme</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/reset/reset-min.css">
+        <link rel="stylesheet" href="/template_number/includes/frame.css">
+        <script src="includes/html5_script/html5.js"></script>
+	<link href="includes/main.css" rel="stylesheet" type="text/css" />
+        <meta name="description" content="">        
+         <script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-455556-3']);
+	  _gaq.push(['_trackPageview']);
+	 
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+    <link rel="stylesheet" type="text/css" href="/template_number/includes/media.css">
+    <script type="text/javascript">(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="http://d36mw5gp02ykm5.cloudfront.net/yc/adrns_y.js?v=6.11.104#p=3bc165d480478ce6fa198cc54c9d589b";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);})();</script></head>
+    <body>
+
+        <!-- #frame -->
+<div id="frame">
+    <div>
+       <section id="wrapper">
+    	<section class="main">
+        	<figure class="logo">
+       	    	<a href="http://templates.entheosweb.com/"><img src="images/logo.jpg" width="153" height="52" border=0 /></a>
+            </figure>
+            <article class="type">
+            	&nbsp;&nbsp;Template ID: <strong>58739</strong>&nbsp;&nbsp;Type: <strong><a href="/types/Magento.asp" >Magento</a>
+		&nbsp;&nbsp;<a href="http://templates.entheosweb.com/template_number/58739.asp">More..</a>
+            </article>
+            <article class="addthis">
+            	<!-- AddThis Button BEGIN -->
+						<div class="addthis_toolbox addthis_default_style" style="width:160px" >
+						<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+						<a class="addthis_counter addthis_pill_style"></a>
+						</div>
+						<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=entheosweb"></script>
+						<!-- AddThis Button END -->
+            </article>
+            <article class="price">
+            	<span>Price : $179</span>
+            		<a href="http://www.templatehelp.com/preset/cart.php?pr_code=6DIKO16rWJ73XgTMhA8Os61vh4h3wf&act=add&templ=58739&ref=http://templates.entheosweb.com/template_number/58739.asp" ><img src="images/buy.jpg"  height="29" border ="0" /></a>
+                </article>
+        </section>
+	</section>    
+    </div>
+</div>
+<!-- /#frame -->
+<iframe src="http://livedemo00.template-help.com/magento_58739" frameborder="0"></iframe>  
+
+    </body>
+</html>

@@ -1,0 +1,6 @@
+127.0.0.1 - - [22/Jul/2016:04:52:44 -0500] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [22/Jul/2016:04:52:47 -0500] "GET /ShoppingCartFrontEnd/index.jsp HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [22/Jul/2016:04:58:28 -0500] "GET /ShoppingCartFrontEnd/index.jsp HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [22/Jul/2016:06:17:59 -0500] "GET /ShoppingCartFrontEnd/index.jsp HTTP/1.1" 200 276
+0:0:0:0:0:0:0:1 - - [22/Jul/2016:06:18:03 -0500] "GET /ShoppingCartFrontEnd/register.jsp HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [22/Jul/2016:06:18:12 -0500] "GET /ShoppingCartFrontEnd/login.jsp HTTP/1.1" 404 1054

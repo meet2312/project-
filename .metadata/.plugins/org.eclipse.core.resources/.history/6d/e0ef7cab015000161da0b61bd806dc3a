@@ -1,0 +1,22 @@
+<html>
+<body>
+<h2> <center>   SHOPPING CART  </center></h2>
+
+<hr color="blue" >
+<table>
+<tr>
+
+<td align ="left">
+
+<a href="register.jsp"> New User </a>
+
+</td>
+
+<td align = "right">
+
+<a href="login.jsp">Existing User  </a>
+
+</td>
+</table>
+</body>
+</html>
